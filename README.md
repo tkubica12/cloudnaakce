@@ -3,7 +3,7 @@ Prezentace, kód a poznámky z povídání na Cloudná akce 24. 5. 2023.
 
 - Blog: [https://www.tomaskubica.cz](https://www.tomaskubica.cz)
 - Github: [https://github.com/tkubica12](https://github.com/tkubica12)
-- Prezentace: [cloudna_akce_2023](cloudna_akce_2023)
+- Prezentace: [cloudna_akce_2023.pdf](cloudna_akce_2023.pdf)
 
 Ukázky:
 
